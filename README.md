@@ -5,7 +5,7 @@ An AI-powered web application that analyzes resumes, calculates ATS scores, and 
 ---
 
 ## 🌐 Live Demo
-https://ai-resume-analyzer-jthekp3dbymhzzggnu8kci.streamlit.app  
+[Live App](https://ai-resume-analyzer-jthekp3dbymhzzggnu8kci.streamlit.app)  
 
 ---
 
