@@ -13,6 +13,22 @@ An AI-powered web application that analyzes resumes, calculates ATS scores, and 
 https://github.com/arpitjaiswal-26/AI-RESUME-ANALYZER  
 
 ---
+## 📸 Screenshots
+
+### 🖥 Main UI
+![UI](ui.png)
+
+### 📄 Resume Input
+![Input](input.png)
+
+### 📌 Summary
+![Result](summary.png)
+
+### 📊 Analysis Result
+![Result](result.png)
+
+### 🎯 Skills Analysis
+![Skills](skills.png)
 
 ## 🔍 Features
 
