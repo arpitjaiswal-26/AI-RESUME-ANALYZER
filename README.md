@@ -1,4 +1,4 @@
-# 🚀 AI Resume Analyzer
+## 🚀 AI Resume Analyzer
 
 An AI-powered web application that analyzes resumes, calculates ATS scores, and provides actionable insights to improve job readiness.
 
