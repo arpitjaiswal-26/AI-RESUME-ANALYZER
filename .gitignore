@@ -1,0 +1,5 @@
+.vscode/
+.streamlit/secrets.toml
+users.db
+resume.db
+__pycache__/
